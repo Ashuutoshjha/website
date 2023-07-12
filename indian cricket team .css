@@ -1,0 +1,16 @@
+*
+#im{
+    height: 400px;
+    width: 30vw;
+}
+h2
+{
+    display: flex;
+    justify-content: left;
+}
+.container{
+    background-color: aqua;
+    
+    border: 10px solid blueviolet;
+    border-radius:8px;
+}
